@@ -11,7 +11,7 @@ module.exports = function(grunt){
     },
     clean: {
       build: {
-        src: ['public/javascripts', 'public/css']
+        src: ['public/javascripts', 'public/stylesheets']
       }
     },
     coffee: {
