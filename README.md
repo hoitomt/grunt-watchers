@@ -1,3 +1,3 @@
 # Welcome to the Grunt Watchers Repo
 
-This repo contains the source code for [this blog post](http://hoitomt.logdown.com/posts/190528-grunt-coffeescript-sass-haml)
+This repo contains the source code for [this blog post](http://blog.hoitomt.com/2014/03/31/grunt-coffeescript-sass-and-haml-project/)
